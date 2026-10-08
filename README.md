@@ -12,7 +12,7 @@ Each member evaluates **one SLAM system of their own choice**. Everything else i
 |---|---|---|---|
 | Elias Bitsch | MASt3R-SLAM | monocular RGB | runner in progress |
 | Philip Stix | GLIM | 3D LiDAR (Livox MID-360) + IMU | system chosen, runner to do |
-| Viktoriia Ovdiienko | *to be chosen* | | |
+| Viktoriia Ovdiienko | RTAB-Map | RGB-D (RealSense D435i) + wheel odometry | system chosen, runner to do |
 | Jiayi Zhou | *to be chosen* | | |
 
 📄 **Read first:** [docs/PLAN.md](docs/PLAN.md) (full plan, methodology, timeline) and [docs/literature.md](docs/literature.md).

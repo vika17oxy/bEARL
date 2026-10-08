@@ -27,7 +27,7 @@ Each member adds the paper(s) for their own chosen system here and to `paper/ref
 | Leroy, Cabon, Revaud, *Grounding Image Matching in 3D with MASt3R*, ECCV 2024 (`leroy2024mast3r`) | The foundation model behind MASt3R-SLAM |
 | Wang et al., *DUSt3R: Geometric 3D Vision Made Easy*, CVPR 2024 (`wang2024dust3r`) | Predecessor of MASt3R |
 | *(system chosen by Philip Stix)* | |
-| *(system chosen by Viktoriia Ovdiienko)* | |
+| Labbé & Michaud, *RTAB-Map as an Open-Source Lidar and Visual Simultaneous Localization and Mapping Library for Large-Scale and Long-Term Online Operation*, Journal of Field Robotics 36(2), 2019 (`labbe2019rtabmap`) | RGB-D + wheel odometry, appearance-based graph SLAM with loop closure (Viktoriia) |
 | *(system chosen by Jiayi Zhou)* | |
 
 ## C. RGB-only deep dive (appendix)

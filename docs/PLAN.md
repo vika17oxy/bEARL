@@ -98,7 +98,7 @@ Known pitfalls (resolve in week 1):
 |---|---|---|---|---|---|
 | Elias Bitsch | **MASt3R-SLAM** (Murai et al., CVPR 2025) | monocular RGB | 3D foundation model + dense SLAM | yes | RTX 3080 Ti / GPU cluster |
 | Philip Stix | *your choice* | | | | |
-| Viktoriia Ovdiienko | *your choice* | | | | |
+| Viktoriia Ovdiienko | **RTAB-Map** (Labbé & Michaud, JFR 2019) | RGB-D + wheel odometry | appearance-based graph SLAM | yes | Intel i5-1155G7, 8 GB RAM, no GPU |
 | Jiayi Zhou | *your choice* | | | | |
 
 ### 3.2 RGB-only deep dive (Elias, optional extension)
